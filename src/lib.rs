@@ -35,7 +35,7 @@ fn fix_(
 ) -> syn::Result<TokenStream> {
     let mut item = syn::parse2::<syn::DeriveInput>(item)?;
     let vis = item.vis.clone();
-    item.vis = syn::parse2(quote!(pub(super))).unwrap();
+    item.vis = syn::parse2(quote!(pub)).unwrap();
     let ident = &item.ident;
 
     let unused = item.attrs.iter().any(|attr| {
