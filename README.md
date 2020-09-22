@@ -1,9 +1,9 @@
 qualify-derive
 ===
 [![GitHub actions](https://github.com/SOF3/qualify-derive/workflows/CI/badge.svg)](https://github.com/SOF3/qualify-derive/actions?query=workflow%3ACI)
-[![crates.io](https://img.shields.io/crates/v/qualify_derive.svg)](https://crates.io/crates/qualify_derive)
-[![crates.io](https://img.shields.io/crates/d/qualify_derive.svg)](https://crates.io/crates/qualify_derive)
-[![docs.rs](https://docs.rs/qualify_derive/badge.svg)](https://docs.rs/qualify_derive)
+[![crates.io](https://img.shields.io/crates/v/qualify-derive.svg)](https://crates.io/crates/qualify-derive)
+[![crates.io](https://img.shields.io/crates/d/qualify-derive.svg)](https://crates.io/crates/qualify-derive)
+[![docs.rs](https://docs.rs/qualify-derive/badge.svg)](https://docs.rs/qualify-derive)
 [![GitHub](https://img.shields.io/github/last-commit/SOF3/qualify-derive)](https://github.com/SOF3/qualify-derive)
 [![GitHub](https://img.shields.io/github/stars/SOF3/qualify-derive?style=social)](https://github.com/SOF3/qualify-derive)
 
