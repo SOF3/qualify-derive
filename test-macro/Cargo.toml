@@ -1,0 +1,11 @@
+[package]
+name = "test-macro"
+version = "0.1.0"
+authors = ["SOFe <sofe2038@gmail.com>"]
+edition = "2018"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+qualify-derive = {path = ".."}

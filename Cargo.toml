@@ -1,0 +1,15 @@
+[workspace]
+members = [".", "test-macro", "test-bin"]
+
+[package]
+name = "qualify-derive"
+version = "0.1.0"
+authors = ["SOFe <sofe2038@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/SOF3/qualify-derive"
+license = "Apache-2.0"
+
+[dependencies]
+proc-macro2 = "1.0.21"
+quote = "1.0.7"
+syn = "1.0.41"

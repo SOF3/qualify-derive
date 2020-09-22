@@ -1,0 +1,12 @@
+[package]
+name = "test-bin"
+version = "0.1.0"
+authors = ["SOFe <sofe2038@gmail.com>"]
+edition = "2018"
+
+[dependencies.specs]
+version = "=0.16.1" # Fixed to ensure test is reproduced
+features = ["specs-derive"]
+
+[dependencies.test-macro]
+path = "../test-macro"
