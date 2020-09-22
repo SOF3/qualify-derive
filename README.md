@@ -29,7 +29,7 @@ name = # the usual [package] stuff
 proc-macro = true
 
 [dependencies]
-qualify-derive = "0.1.0"
+qualify-derive = "0.1.1"
 ```
 
 Then create `src/lib.rs` with the following cntents:

@@ -4,7 +4,7 @@ members = [".", "test-macro", "test-bin"]
 [package]
 name = "qualify-derive"
 description = "Simple utility for wrapping derive macros that do not qualify paths properly"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["SOFe <sofe2038@gmail.com>"]
 edition = "2018"
 repository = "https://github.com/SOF3/qualify-derive"
